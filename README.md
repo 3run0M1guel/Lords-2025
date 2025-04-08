@@ -1,5 +1,5 @@
-### Seja bem-vindo ao projeto Lords
+# Seja bem-vindo ao projeto Lords
 
- # Nosso site
+ ## Nosso site
 
 https://3run0m1guel.github.io/Lords-2025/
